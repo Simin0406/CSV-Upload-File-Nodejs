@@ -37,8 +37,8 @@ CSV Upload File which built using Nodejs, Ejs , CSS , JavaScript.It is responsiv
 ## 💻  Screen
 
 ### CSV Upload File
+![image](https://github.com/Simin0406/CSV-Upload-File-Nodejs/assets/75030551/1e22ce7f-8f32-4fab-be8c-b61b1f4eb29b)
 
-![Screenshot (329)](https://github.com/ajaykumar2pp/CSV-Upload-File-Nodejs/assets/102378038/c0359b93-7496-47cf-bc96-8f48a8d4105e)
 
 
 
